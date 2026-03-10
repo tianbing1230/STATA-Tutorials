@@ -1,0 +1,14 @@
+.DS_Store
+.texpadtmp/
+
+# Stata temporary / output files
+*.log
+*.smcl
+*.tmp
+*.gph
+*.stpr
+*.dta
+
+# Keep output folder, but ignore generated files
+output/*
+!output/.gitkeep
