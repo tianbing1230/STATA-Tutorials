@@ -1,6 +1,7 @@
 # Stata Tutorial
 
 Teaching materials for a Stata tutorial.
+This tutorial was developed in the pre-vibe-coding era.
 
 ## Current Coverage
 
