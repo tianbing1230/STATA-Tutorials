@@ -2,6 +2,16 @@
 
 Teaching materials for a Stata tutorial.
 
+## Current Coverage
+
+This tutorial currently covers:
+
+- Basic data handling and data workflow in Stata
+- Core operations for data exploration and transformation
+- Descriptive statistics
+
+Content on inferential statistics and later modeling topics will be added in future updates.
+
 ## Folder Structure
 
 - `lecture_slides/`  
@@ -22,21 +32,11 @@ Teaching materials for a Stata tutorial.
 3. Run scripts from `codes/`.
 4. Outputs will be written to `output/`.
 
-## Current Coverage
-
-This tutorial currently covers:
-
-- Basic data handling and data workflow in Stata
-- Core operations for data exploration and transformation
-- Descriptive statistics
-
-Content on inferential statistics and later modeling topics will be added in future updates.
-
 ## Data and Assignment Notes
 
 ### Data Notes
 
-- All tutorial examples are based on **CPS 2010 individual data**.
+- All tutorial examples are based on **CPS 2010 individual adult data**.
 - A **10% sample** was drawn and saved as **`cfps2010adult_10%.dta`** (the filename used in tutorial scripts).
 - The sampled data were cleaned with the provided `.do` script(s), and **`cfps10_foruse.dta`** is used as the main tutorial demo dataset.
 - Raw CFPS data are not distributed in this repository. Please download CFPS 2010 individual data yourself if needed.
