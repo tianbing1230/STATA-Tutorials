@@ -59,3 +59,7 @@ Content on inferential statistics and later modeling topics will be added in fut
 This repository is for educational purposes only.  
 Materials, code, and examples are provided "as is" without warranty of any kind.  
 Users are responsible for verifying results and complying with the original data providers' terms of use and licensing requirements.
+
+## License
+
+This repository is licensed under **CC BY-NC 4.0**. See `LICENSE` for details.
